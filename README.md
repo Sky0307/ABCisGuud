@@ -6,5 +6,8 @@ Bello this is our first Project/Comp on Kaggle
 
 let's see how long we take to finish a tutorial. o.0
 
-Team Members:
-
+Team Members:  
+@wjwen5  
+@EtsukoChai  
+@ChungZhiYou8  
+@xXkenXD  
